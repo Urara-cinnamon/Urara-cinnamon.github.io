@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Urara-cinnamon.github.io/sitemap.xml
